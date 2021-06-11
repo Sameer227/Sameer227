@@ -2,7 +2,7 @@
 - 👀 I’m interested in node js platform
 - 🌱 I’m currently learning AWS, backend development
 - 💞️ I’m looking to collaborate on nodejs projects
-- 📫 How to reach me sameersatna72@gmail.com
+- 📫 How to reach me sameer.soni9227@gmail.com
 
 <!---
 Sameer227/Sameer227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
